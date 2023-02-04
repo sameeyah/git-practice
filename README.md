@@ -1,1 +1,1 @@
-hoge_topic1
+hoge_topic
